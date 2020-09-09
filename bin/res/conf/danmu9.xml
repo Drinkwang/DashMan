@@ -1,0 +1,7 @@
+<danmus>
+<danmu index="1"    text="德玛西亚？\n楼上拖出去打倒好了.." weight="10"></danmu>
+<danmu index="2"    text="暴风雨前后的黎明" weight="15"></danmu>
+<danmu index="3"    text="冲呀！！！" weight="20"></danmu>
+<danmu index="3"    text="那个瘦瘦的‘竹条’能有什么本事" weight="20"></danmu>
+<danmu LimitTimeMax="9"	LimitTimeMin="3" LimitDanmuCount="10"></danmu>
+</danmus>

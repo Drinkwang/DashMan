@@ -1,0 +1,10 @@
+<danmus>
+<danmu index="3"    text="楼上的不要得意忘形" weight="5"></danmu>
+<danmu index="4"    text="这关没有敌人？~" weight="10"></danmu>
+<danmu index="4"    text="这关也太简单了吧？~" weight="10"></danmu>
+<danmu index="1"    text="这是个奖励关卡，嘻嘻." weight="20"></danmu>
+<danmu index="2"    text="看上去，这关能赚很多钱呢！" weight="20"></danmu>
+<danmu index="3"    text="赚了钱可以去商店买技能唷！" weight="20"></danmu>
+<danmu index="1"    text="很多东西打破都可以赚取钱呢！" weight="30"></danmu>
+<danmu LimitTimeMax="6"	LimitTimeMin="3" LimitDanmuCount="10"></danmu>
+</danmus>

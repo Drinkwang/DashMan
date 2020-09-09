@@ -1,0 +1,11 @@
+<danmus>
+<danmu index="1"    text="德玛西亚？\n         楼上拖出去打倒好了.." weight="5"></danmu>
+<danmu index="4"    text="黑人抬棺警告？噔~噔噔~噔~噔~噔噔噔噔~" weight="10"></danmu>
+
+<danmu index="2"    text="奥里给？" weight="20"></danmu>
+<danmu index="3"    text="三个，是要上演黑人抬棺么？" weight="20"></danmu>
+<danmu index="3"    text="冲呀！！！" weight="20"></danmu>
+<danmu index="3"    text="那个瘦瘦的‘竹条’能有什么本事" weight="20"></danmu>
+<danmu index="1"    text="那些汽车广告牌，打破都可以赚取钱哦！" weight="30"></danmu>
+<danmu LimitTimeMax="9"	LimitTimeMin="3" LimitDanmuCount="10"></danmu>
+</danmus>

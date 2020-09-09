@@ -1,0 +1,7 @@
+<danmus>
+<danmu index="4"    text="地刺看上去好恐怖~" weight="10"></danmu>
+<danmu index="1"    text="德玛西亚？\n楼上拖出去打倒好了.." weight="20"></danmu>
+<danmu index="2"    text="不要怕，冲鸭！" weight="20"></danmu>
+<danmu index="3"    text="这关敌人看上去好多呀！" weight="20"></danmu>
+<danmu LimitTimeMax="10"	LimitTimeMin="4" LimitDanmuCount="10"></danmu>
+</danmus>

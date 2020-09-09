@@ -1,0 +1,9 @@
+<danmus>
+<danmu index="4"    text="这关为什么会有8个敌人？~" weight="10"></danmu>
+<danmu index="1"    text="明明看上去没有那么多敌人.." weight="20"></danmu>
+<danmu index="2"    text="隐身怪？" weight="20"></danmu>
+<danmu index="3"    text="越到后面越难了" weight="20"></danmu>
+<danmu index="3"    text="冲呀！！！" weight="20"></danmu>
+
+<danmu LimitTimeMax="5"	LimitTimeMin="3" LimitDanmuCount="10"></danmu>
+</danmus>

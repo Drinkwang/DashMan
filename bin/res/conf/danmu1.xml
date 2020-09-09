@@ -1,0 +1,9 @@
+<danmus>
+<danmu index="3"    text="我就是饿死，死外面，都不会在这一关输掉" weight="5"></danmu>
+<danmu index="4"    text="老铁，双击666！" weight="10"></danmu>
+<danmu index="1"    text="666666" weight="20"></danmu>
+<danmu index="2"    text="不明觉厉" weight="20"></danmu>
+<danmu index="3"    text="这关就是太简单了.." weight="20"></danmu>
+<danmu index="3"    text="冲呀！！！" weight="20"></danmu>
+<danmu LimitTimeMax="10"	LimitTimeMin="4" LimitDanmuCount="10"></danmu>
+</danmus>

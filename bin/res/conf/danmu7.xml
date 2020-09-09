@@ -1,0 +1,8 @@
+<danmus>
+<danmu index="4"    text="这关蛮简单的嘛~" weight="10"></danmu>
+<danmu index="1"    text="平平无奇.." weight="20"></danmu>
+<danmu index="2"    text="奥里给？" weight="20"></danmu>
+<danmu index="3"    text="不过这关很有很多草地" weight="20"></danmu>
+<danmu index="3"    text="干就完事了，冲呀！！！" weight="20"></danmu>
+<danmu LimitTimeMax="9"	LimitTimeMin="3" LimitDanmuCount="10"></danmu>
+</danmus>

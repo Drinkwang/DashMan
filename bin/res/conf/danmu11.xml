@@ -1,0 +1,11 @@
+<danmus>
+<danmu index="1"    text="回主界面的成就面板会有意外的惊喜" weight="5"></danmu>
+<danmu index="4"    text="地刺看上去好疼~但是你可能不敢信，它是加速的" weight="10"></danmu>
+<danmu index="1"    text="还有谁？" weight="20"></danmu>
+<danmu index="2"    text="通关？so easy拉" weight="20"></danmu>
+<danmu index="3"    text="冲！冲冲" weight="20"></danmu>
+<danmu index="3"    text="冲呀！！！" weight="20"></danmu>
+<danmu index="3"    text="那个瘦瘦的‘竹条’能有什么本事" weight="20"></danmu>
+
+<danmu LimitTimeMax="9"	LimitTimeMin="3" LimitDanmuCount="10"></danmu>
+</danmus>

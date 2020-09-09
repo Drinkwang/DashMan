@@ -1,0 +1,10 @@
+<danmus>
+<danmu index="4"    text="打脸警告" weight="10"></danmu>
+<danmu index="1"    text="这关也简单了吧.." weight="20"></danmu>
+<danmu index="2"    text="不会吧，不会吧，这关不会真的那么简单吧？" weight="20"></danmu>
+<danmu index="1"    text="666！" weight="30"></danmu>
+<danmu index="1"    text="给力！" weight="30"></danmu>
+<danmu index="1"    text="冲呀！" weight="30"></danmu>
+<danmu index="1"    text="看来游戏快通关了！" weight="30"></danmu>
+<danmu LimitTimeMax="5"	LimitTimeMin="3" LimitDanmuCount="10"></danmu>
+</danmus>

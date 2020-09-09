@@ -1,0 +1,9 @@
+<danmus>
+<danmu index="4"    text="我的天呀，这关怎么过？" weight="10"></danmu>
+<danmu index="3"    text="跳跃技能需要提前一定距离进行释放的" weight="15"></danmu>
+<danmu index="1"    text="我想，这关需要装备其他技能才能过关" weight="20"></danmu>
+<danmu index="2"    text="奥里给？" weight="20"></danmu>
+<danmu index="3"    text="如果没有跳跃、翻滚技能，这关不可能过的！" weight="20"></danmu>
+<danmu index="3"    text="冲呀！！！" weight="30"></danmu>
+<danmu LimitTimeMax="6"	LimitTimeMin="3" LimitDanmuCount="10"></danmu>
+</danmus>

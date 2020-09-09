@@ -1,0 +1,10 @@
+<danmus>
+<danmu index="4"    text="好多女神呀？" weight="10"></danmu>
+<danmu index="1"    text="还记得前面的关卡么？她们很多都是冒充的" weight="20"></danmu>
+<danmu index="2"    text="过不了怎么办" weight="20"></danmu>
+<danmu index="3"    text="果然是一场‘暴风’雨呀" weight="20"></danmu>
+<danmu index="3"    text="过不了的朋友可以去商店买解锁关卡呀！！！" weight="20"></danmu>
+<danmu index="3"    text="多试几次就能过了" weight="20"></danmu>
+<danmu index="1"    text="加油，666666" weight="30"></danmu>
+<danmu LimitTimeMax="4"	LimitTimeMin="1" LimitDanmuCount="10"></danmu>
+</danmus>

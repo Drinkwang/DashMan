@@ -1,0 +1,11 @@
+<danmus>
+<danmu index="4"    text="这关是最后一关了么" weight="10"></danmu>
+<danmu index="1"    text="快给女神表白，表白" weight="20"></danmu>
+<danmu index="2"    text="芜湖！" weight="20"></danmu>
+<danmu index="3"    text="终于走到这一步了" weight="20"></danmu>
+<danmu index="3"    text="那么结局到底是什么" weight="20"></danmu>
+<danmu index="3"    text="天呀，单身狗嫉妒了" weight="20"></danmu>
+<danmu index="1"    text="haahahah" weight="30"></danmu>
+<danmu index="1"    text="哇呀呀呀呀" weight="30"></danmu>
+<danmu LimitTimeMax="1"	LimitTimeMin="0" LimitDanmuCount="10"></danmu>
+</danmus>

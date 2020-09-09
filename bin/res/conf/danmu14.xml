@@ -1,0 +1,10 @@
+<danmus>
+<danmu index="4"    text="这关为什么会有二个女神" weight="10"></danmu>
+<danmu index="1"    text="好奇怪的样子.." weight="20"></danmu>
+<danmu index="2"    text="看样子只能实验几次呢" weight="20"></danmu>
+<danmu index="3"    text="这个游戏竟然还有解密的内容？" weight="20"></danmu>
+<danmu index="3"    text="好好玩！" weight="20"></danmu>
+<danmu index="3"    text="我吐了" weight="20"></danmu>
+<danmu index="3"    text="还是得切换成跳跃技能么" weight="20"></danmu>
+<danmu LimitTimeMax="6"	LimitTimeMin="3" LimitDanmuCount="10"></danmu>
+</danmus>

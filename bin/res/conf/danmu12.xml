@@ -1,0 +1,12 @@
+<danmus>
+<danmu index="1"    text="蓄力到满有惊喜哦" weight="5"></danmu>
+<danmu index="4"    text="这关有亿点点敌人~" weight="10"></danmu>
+<danmu index="1"    text="最后一个敌人的站位，看上去好危险.." weight="20"></danmu>
+<danmu index="2"    text="万一我冲出悬崖了怎么办" weight="20"></danmu>
+<danmu index="3"    text="这关，没有女神么？" weight="20"></danmu>
+<danmu index="3"    text="冲呀！！！" weight="20"></danmu>
+<danmu index="3"    text="这关换冲刺技能可能比较好！" weight="20"></danmu>
+<danmu index="3"    text="蓄力满了，其实还是可以蓄力的！" weight="30"></danmu>
+
+<danmu LimitTimeMax="6"	LimitTimeMin="3" LimitDanmuCount="10"></danmu>
+</danmus>

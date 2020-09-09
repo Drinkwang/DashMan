@@ -1,0 +1,9 @@
+<danmus>
+<danmu index="3"    text="一堆胖子 \n   语言侮辱，举报了  \n       我说的是游戏" weight="5"></danmu>
+<danmu index="4"    text="打脸警告" weight="10"></danmu>
+<danmu index="1"    text="这关也太简单了吧.." weight="20"></danmu>
+<danmu index="2"    text="不会吧，不会吧，这关不会真的那么简单吧？" weight="20"></danmu>
+
+<danmu index="1"    text="给力！" weight="30"></danmu>
+<danmu LimitTimeMax="9"	LimitTimeMin="3" LimitDanmuCount="10"></danmu>
+</danmus>

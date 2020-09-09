@@ -1,0 +1,27 @@
+{
+  "name": "clash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "clash": "game.js"
+  },
+  "dependencies": {
+    "leancloud-storage": "^4.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drinkwang/DashMan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drinkwang/DashMan/issues"
+  },
+  "homepage": "https://github.com/Drinkwang/DashMan#readme"
+}

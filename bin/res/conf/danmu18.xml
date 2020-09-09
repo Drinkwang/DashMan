@@ -1,0 +1,10 @@
+<danmus>
+<danmu index="4"    text="这关是送钱关，不过也有一个敌人~" weight="10"></danmu>
+<danmu index="1"    text="冲压.." weight="20"></danmu>
+<danmu index="2"    text="奥里给？" weight="20"></danmu>
+<danmu index="3"    text="楼上的，我是后面一关回来的，后面超难.." weight="20"></danmu>
+<danmu index="3"    text="冲呀！！！" weight="20"></danmu>
+<danmu index="3"    text="只剩下二关了，好怀念" weight="20"></danmu>
+<danmu index="1"    text="商店里的东西，我都买完了，看广告获得很多金币呢" weight="30"></danmu>
+<danmu LimitTimeMax="5"	LimitTimeMin="2" LimitDanmuCount="10"></danmu>
+</danmus>

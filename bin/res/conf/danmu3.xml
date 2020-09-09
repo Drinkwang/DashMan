@@ -1,0 +1,11 @@
+<danmus>
+<danmu index="3"    text="点击可以使用技能唷" weight="5"></danmu>
+<danmu index="4"    text="老铁，火箭飞机刷起来呀！" weight="10"></danmu>
+<danmu index="1"    text="666666" weight="20"></danmu>
+<danmu index="2"    text="奥里给！" weight="20"></danmu>
+<danmu index="3"    text="敌人有二个！" weight="20"></danmu>
+<danmu index="3"    text="冲呀！！！" weight="20"></danmu>
+<danmu index="3"    text="那个瘦瘦的‘竹条’能有什么本事！" weight="20"></danmu>
+<danmu index="3"    text="那个胖胖的‘圆筒’能有什么用？" weight="20"></danmu>
+<danmu LimitTimeMax="9"	LimitTimeMin="3" LimitDanmuCount="10"></danmu>
+</danmus>

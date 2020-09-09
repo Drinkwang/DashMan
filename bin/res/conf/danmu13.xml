@@ -1,0 +1,10 @@
+<danmus>
+<danmu index="4"    text="尖刺地狱？？？" weight="10"></danmu>
+<danmu index="1"    text="妈妈，我想回家.." weight="20"></danmu>
+<danmu index="2"    text="哇，看上去好痛呀" weight="20"></danmu>
+<danmu index="3"    text="蓄力一点点可以冲好远" weight="20"></danmu>
+<danmu index="3"    text="冲呀！！！" weight="20"></danmu>
+<danmu index="3"    text="这关？你是在逗我？" weight="20"></danmu>
+<danmu index="1"    text="好怕怕" weight="30"></danmu>
+<danmu LimitTimeMax="7"	LimitTimeMin="3" LimitDanmuCount="10"></danmu>
+</danmus>
